@@ -1,17 +1,17 @@
 🕘️更新时间,#genre#
-2026-03-16 06:20:54,http://107.150.60.122/live/cctv2hd.m3u8
+2026-03-16 18:47:49,http://107.150.60.122/live/cctv2hd.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=17
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
@@ -27,6 +27,7 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+东南卫视,http://107.150.60.122/live/dnwshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
