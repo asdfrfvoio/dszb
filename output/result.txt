@@ -1,26 +1,26 @@
 🕘️更新时间,#genre#
-2026-05-06 06:49:36,https://iptv.catvod.com/catvod?id=CCTV1&line=19
+2026-05-06 19:45:50,https://iptv.catvod.com/catvod?id=CCTV1&line=10
 
 📺央视频道,#genre#
-CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=19
-CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=2
+CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=10
+CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=5
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=8
-CCTV-4,http://192.151.150.154/live/cctv4hd.m3u8
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4%E7%BE%8E%E6%B4%B2&line=1
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV-6,https://iptv.catvod.com/catvod?id=CCTV6&line=13
-CCTV-7,https://iptv.catvod.com/catvod?id=CCTV7&line=9
+CCTV-6,https://iptv.catvod.com/catvod?id=CCTV6&line=14
+CCTV-7,https://iptv.catvod.com/catvod?id=CCTV7&line=2
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 CCTV-9,https://iptv.catvod.com/catvod?id=CCTV9&line=8
-CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=2
+CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=7
 CCTV-11,https://iptv.catvod.com/catvod?id=CCTV11&line=3
-CCTV-12,https://iptv.catvod.com/catvod?id=CCTV12&line=2
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=3
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=8
+CCTV-12,https://iptv.catvod.com/catvod?id=CCTV12&line=4
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=4
+CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=5
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
-CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=1
+CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=2
 CCTV-17,https://iptv.catvod.com/catvod?id=CCTV17&line=3
-CETV-1,https://iptv.catvod.com/catvod?id=CETV1&line=1
+CETV-1,https://iptv.catvod.com/catvod?id=CETV1&line=3
 CETV-2,https://iptv.catvod.com/catvod?id=CETV2&line=5
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -30,8 +30,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
-湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
@@ -56,7 +56,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113
 四川卫视,https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=1
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
-三沙卫视,http://192.151.150.154/live/ssws.m3u8
+三沙卫视,http://107.150.60.122/live/ssws.m3u8
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 新疆卫视,http://107.150.60.122/live/xjws.m3u8
@@ -79,7 +79,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-中天新闻,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
+中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -89,8 +89,9 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
+Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
