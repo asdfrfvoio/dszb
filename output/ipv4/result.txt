@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-27 06:54:07,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+2026-07-27 20:53:26,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
@@ -23,9 +23,9 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 甘肃卫视,http://192.151.150.154/live/gswshd.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 河北卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_HEBEI-CQ/G_HEBEI-CQ.m3u8?p=GITV&area=JS_CMCC_CP
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_HENAN-CQ/G_HENAN-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 吉林卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_JILIN-CQ/G_JILIN-CQ.m3u8?p=GITV&area=JS_CMCC_CP
-江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+江苏卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_JIANGSU-HD-265-8M/G_JIANGSU-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 江西卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 辽宁卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_LIAONING-HD-265-8M/G_LIAONING-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 山东卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_SHANDONG-HD-265-8M/G_SHANDONG-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
@@ -45,4 +45,4 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
