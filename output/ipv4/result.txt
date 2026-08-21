@@ -1,20 +1,25 @@
 🕘️更新时间,#genre#
-2026-08-21 06:18:24,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+2026-08-21 18:22:01,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
-CCTV-8,http://112.249.75.196:9989/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://113.9.214.47:9003/hls/34/index.m3u8
+浙江卫视,http://113.57.140.161:10081/newlive/live/hls/32/live.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+黑龙江卫视,http://183.94.146.79:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://182.37.41.46:8154/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://192.151.150.154/live/gswshd.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
+河南卫视,http://112.27.5.218:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
-江西卫视,http://110.72.71.52:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://183.94.146.79:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://111.59.24.227:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://171.38.148.188:9003/hls/53/index.m3u8
 
 ☘️辽宁频道,#genre#
 
@@ -29,5 +34,4 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-体育赛事,http://45.192.97.170:8880/play/4313.m3u8
 天津体育,http://168250.xyz:1111/rtp/239.5.1.3:5000
