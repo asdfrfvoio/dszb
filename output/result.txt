@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-24 06:13:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-24 18:32:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -98,7 +98,7 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 星空卫视,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat1&id=19
-龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 
 🎥咪咕直播,#genre#

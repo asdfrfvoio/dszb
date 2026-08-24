@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-24 06:13:11,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+2026-08-24 18:32:22,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
@@ -21,6 +21,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 
 🎥咪咕直播,#genre#
 
