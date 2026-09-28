@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-28 08:08:53,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+2026-09-29 01:54:15,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 📺央视频道,#genre#
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
