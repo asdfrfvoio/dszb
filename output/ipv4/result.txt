@@ -1,13 +1,24 @@
 🕘️更新时间,#genre#
-2026-10-31 09:16:41,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+2026-10-31 23:34:17,http://45.192.97.170:8880/play/255.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://45.192.97.170:8880/play/255.m3u8
+CCTV-2,http://45.192.97.170:8880/play/256.m3u8
+CCTV-3,http://45.192.97.170:8880/play/257.m3u8
+CCTV-4,http://45.192.97.170:8880/play/258.m3u8
+CCTV-5,http://45.192.97.170:8880/play/259.m3u8
+CCTV-8,http://45.192.97.170:8880/play/263.m3u8
+CCTV-9,http://45.192.97.170:8880/play/264.m3u8
+CCTV-10,http://45.192.97.170:8880/play/265.m3u8
+CCTV-13,http://45.192.97.170:8880/play/268.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 
 ☘️辽宁频道,#genre#
 
@@ -23,4 +34,4 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
