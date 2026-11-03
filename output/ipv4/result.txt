@@ -1,19 +1,10 @@
 🕘️更新时间,#genre#
-2026-11-03 03:55:53,http://115.48.161.74:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-11-03 11:12:04,http://45.192.97.170:8880/play/259.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://115.48.161.74:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://115.48.161.74:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://115.48.161.74:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://115.48.161.74:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://45.192.97.170:8880/play/259.m3u8
-CCTV-7,http://115.48.161.74:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://115.48.161.74:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=aadb8c18051ee59eba868c6c6fda57a6
 CCTV-13,http://45.192.97.170:8880/play/268.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-2,http://112.103.141.170:1234/923287211
-CETV-4,http://112.103.141.170:1234/923287339
 
 📡卫视频道,#genre#
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
@@ -35,4 +26,4 @@ CETV-4,http://112.103.141.170:1234/923287339
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
