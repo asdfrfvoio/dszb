@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-06 01:47:21,http://173.208.234.146/live/cctv1.m3u8
+2026-11-06 09:56:58,http://173.208.234.146/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://173.208.234.146/live/cctv1.m3u8
@@ -8,7 +8,6 @@ CCTV-4,http://45.192.97.170:8880/play/195.m3u8
 CCTV-6,http://45.192.97.170:8880/play/198.m3u8
 CCTV-7,http://45.192.97.170:8880/play/199.m3u8
 CCTV-8,http://45.192.97.170:8880/play/200.m3u8
-CCTV-9,http://45.192.97.170:8880/play/201.m3u8
 CCTV-13,http://45.192.97.170:8880/play/205.m3u8
 CCTV-17,http://173.208.212.130:8181/1080p/cctv17.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
@@ -19,12 +18,11 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 北京卫视,http://45.192.97.170:8880/play/509.m3u8
 湖北卫视,http://45.192.97.170:8880/play/229.m3u8
 黑龙江卫视,http://45.192.97.170:8880/play/232.m3u8
-安徽卫视,http://45.192.97.170:8880/play/242.m3u8
+安徽卫视,http://45.192.97.170:8880/play/303.m3u8
 重庆卫视,http://45.192.97.170:8880/play/234.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
-东南卫视,http://bztv.tvbus.cc:8081/cdnlive/dnws.m3u8
+东南卫视,http://45.192.97.170:8880/play/299.m3u8
 广西卫视,http://45.192.97.170:8880/play/231.m3u8
-贵州卫视,http://45.192.97.170:8880/play/239.m3u8
 海南卫视,http://45.192.97.170:8880/play/233.m3u8
 河北卫视,http://45.192.97.170:8880/play/243.m3u8
 河南卫视,http://45.192.97.170:8880/play/298.m3u8
@@ -38,7 +36,7 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 四川卫视,http://45.192.97.170:8880/play/297.m3u8
 深圳卫视,http://45.192.97.170:8880/play/235.m3u8
 西藏卫视,http://45.192.97.170:8880/play/253.m3u8
-新疆卫视,http://45.192.97.170:8880/play/254.m3u8
+新疆卫视,http://45.192.97.170:8880/play/539.m3u8
 云南卫视,http://45.192.97.170:8880/play/541.m3u8
 
 ☘️辽宁频道,#genre#
@@ -51,9 +49,8 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 纬来育乐,http://zby.lskk.top/cdnlive.php?mode=play&id=74cc4c3b644c367a8b56dea754e67692&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 靖天资讯,http://zby.lskk.top/cdnlive.php?mode=play&id=14cc21b7b4bf570db94cd3b91fa9dea6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-天映经典,http://tv.cloudcdn.me:80/live.ts?channelId=133120&uid=10223&deviceMac=00:1A:79:07:07:43
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
